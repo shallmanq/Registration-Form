@@ -13,3 +13,4 @@ Simple client side form validation. Check requird, length, email and password ma
 - checkEmail() to validate email with regex
 - checkPasswordsMatch() to match confirm password
 
+You can clone this project and use it for your project.
