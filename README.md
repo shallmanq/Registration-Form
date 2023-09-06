@@ -2,7 +2,7 @@
 
 # Form Validator
 
-Simple client side form validation. Check requird, length, email and password match
+Simple client side form validation. Check required, length, email and password match
 
 ## Project Specifications
 
